@@ -1,0 +1,12 @@
+OK - deveRetornarPrecoDeItemIndividual
+OK - deveCalcularPrecoDeKitDeAcessorios
+OK - deveCalcularQuantidadeDeItensDeKitDeAcessorios
+OK - deveCalcularPrecoDeComboComKitDentroDeKit
+OK - deveCalcularQuantidadeDeItensDeComboComKitDentroDeKit
+OK - deveRemoverProdutoDoKit
+OK - deveRemoverProdutoDoKitQuantidade
+OK - deveUsarLojaParaCalcularTotalDoPedido
+OK - deveUsarLojaParaCalcularQuantidadeDoPedido
+OK - deveRetornarValorZeroParaKitVazio
+OK - deveRetornarQuantidadeZeroParaKitVazio
+Todos os testes manuais passaram com sucesso!
